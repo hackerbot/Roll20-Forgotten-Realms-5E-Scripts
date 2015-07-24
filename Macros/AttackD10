@@ -1,0 +1,1 @@
+/w gm @{selected|token_name} attacks [[1d20+@{selected|PB}*2.5]] | [[1d20+@{selected|PB}*2.5]] for [[@{selected|PB}d10]] C[[@{selected|PB}d10]] DMG-TYPE DC[[8+@{selected|PB}*3]] MOD or STATUS until successful save.

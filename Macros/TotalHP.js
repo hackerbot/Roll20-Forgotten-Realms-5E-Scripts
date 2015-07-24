@@ -1,0 +1,1 @@
+&{template:5eDefault} {{title=?{Character Name}}} {{save=1}} {{Total HP=@Level [[?{Level|11}]]: [[(?{Barb: d12 ║ Fght/Rngr/Pldin: d10 ║ Srcr: d6 ║ d|8}+?{CON mod|0})+[[?{Level|11}-1]]d?{Barb: d12 ║ Fght/Rngr/Pldin: d10 ║ Srcr: d6 ║ d|8}+([[?{Level|11}-1]]*?{CON mod|0})]]}} @{GM Macros|classactioncustom1skill}

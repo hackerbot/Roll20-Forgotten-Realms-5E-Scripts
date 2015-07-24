@@ -1,0 +1,2 @@
+&{template:5eDefault} {{ability=1}} {{title=Rolling for Inititaive}}
+/w gm &{template:5eDefault} {{ability=1}} {{character_name=@{selected|character_name}}} @{selected|show_character_name} {{rollname=Result}} {{roll=[[1d20+@{selected|initiative}+@{selected|initiative_tie_breaker} &{tracker}]] | [[1d20+@{selected|initiative}+@{selected|initiative_tie_breaker}]]}}
